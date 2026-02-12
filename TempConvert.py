@@ -1,7 +1,7 @@
 #TempConvert.py
-#Name:
-#Date:
-#Assignment:
+#Name: Gustavo Vargas
+#Date: 02/12/2026
+#Assignment: Temp Convert
 
 
 def main():
